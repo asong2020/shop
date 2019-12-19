@@ -1,0 +1,1 @@
+自己的电商项目，采用SpringBoot+Mybatis实现基本功能
